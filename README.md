@@ -1,7 +1,7 @@
 
 # Make your computer code, with ghostwriter!
 
-[![Demo Video](https://raw.githubusercontent.com/idrisschebak/mousejiggler/main/assets/demo.gif)](https://raw.githubusercontent.com/idrisschebak/snake/main/assets/demo.gif)
+[![Demo Video](https://raw.githubusercontent.com/idrisschebak/ghostwriter/main/assets/demo.gif)](https://raw.githubusercontent.com/idrisschebak/ghostwriter/main/assets/demo.gif)
 
 Ghostwriter generates code and simulates the process of slowly typing it into a file, with occasional mistakes made by randomly deleting a character.
 
